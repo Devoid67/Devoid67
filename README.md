@@ -1,91 +1,112 @@
+<!-- ================= TOP GIF (Bleach - Ichigo) ================= -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJjdTE5MWFicTZsOWpkaGY3YW5zM2xjODhqMzlrb3hmM2JtMW8xYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IRwEAOdfiCkHjw1DWB/giphy.gif" width="100%" />
+  <img src="https://static2.klipy.com/ii/4e7bea9f7a3371424e6c16ebc93252fe/a4/2b/HUX4yIljI9AFt0J4dg.gif" width="100%" alt="Bleach Ichigo" />
 </p>
 
-¤ About Me
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3776AB&center=false&vCenter=true&width=520&lines=Hi+there!+I'm+a+first+year+student+%26+developer;Passionate+about+Programming+AI%2C+ML%2C+and+Data+Science;Always+building+and+learning+something+new!" alt="Typing SVG" />
+<!-- ================= HEADER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:3776AB&height=220&section=header&text=Devoid67&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20AI%20Builder&descSize=18&descAlignY=60" width="100%" />
 </p>
 
-¤ Tech Stack
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=640&lines=Hi+there!+I'm+Devoid67+%F0%9F%91%8B;First-year+student+%26+Python+developer;Obsessed+with+AI%2C+ML+%26+Data+Science;Building+something+new+every+day+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,go,express,postgres,mongodb,docker,git,github,tailwind,html,css,figma,python,java,javascript,c,c++,brainfuck" />
-</div>
-
-| Category           | Languages                                         |
-| ------------------ | ----------------------------------------------------- |
-| Languages      | Python, Java,  JavaScript, Assembly,  C++,  C,  Swift |
-| Frontend       | React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3, Three.js |
-| Backend        | Node.js, Express, Go, PostgreSQL, MongoDB, Prisma     |
-| DevOps         | Docker, GitHub Actions, Vercel, Netlify,  Nginx                 |
-| Testing & Auth | Jest, Vitest, Supertest, JWT                          |
-
-
---->
-<div align="center">
-
   <a href="https://github.com/Devoid67">
-    <img
-      src="https://komarev.com/ghpvc/?username=Devoid67&label=PROFILE%20VIEWS&style=for-the-badge&color=0e75b6"
-      alt="Profile Views"
-    />
+    <img src="https://komarev.com/ghpvc/?username=Devoid67&label=PROFILE%20VIEWS&style=for-the-badge&color=0e75b6" alt="Profile Views" />
   </a>
-
   <a href="https://github.com/Devoid67?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/Devoid67?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=181717"
-      alt="Followers"
-    />
+    <img src="https://img.shields.io/github/followers/Devoid67?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=181717" alt="Followers" />
   </a>
-
 </div>
-GitHub
-Devoid67 - Overview
-My companion @Mrquillwing
-OJASVAT-CORPORATION . Devoid67 has one repository available. Follow their code on GitHub.
-Image
-<!-- ========================================================= -->
-<!--               GITHUB ENGINEERING STATS                    -->
-<!-- ========================================================= -->
 
-¤ GitHub Engineering Stats
+---
+
+## 🧬 About Me
+
+```python
+class Devoid67:
+    def __init__(self):
+        self.role     = "First-year student & developer"
+        self.language = "Python 🐍"
+        self.interests = ["Artificial Intelligence", "Machine Learning", "Data Science"]
+        self.mode     = "Always building, always learning"
+
+    def current_quest(self):
+        return "Turning ideas into working projects, one commit at a time."
+
+me = Devoid67()
+print(me.current_quest())
+```
+
+---
+
+## ⚔️ Player Stats
+
+| 🎮 Attribute | 📊 Value |
+| ------------ | -------- |
+| **Class**    | Student Developer |
+| **Main Weapon** | Python |
+| **Specialty** | AI / ML / Data Science |
+| **Current Level** | First Year, climbing fast |
+| **Status**   | 🟢 Open to collaborate |
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,vscode,mysql,git,github&perline=5" alt="Tech Stack" />
+</div>
+
+### 🌱 Currently Exploring
+<div align="center">
+  <img src="https://img.shields.io/badge/AI-Companions-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-In%20Progress-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Science-Learning-00CFFF?style=for-the-badge" />
+</div>
+
+---
+
+## 🔥 What I'm Up To
+
+- 🔭 Working on AI-focused projects in Python
+- 🌱 Learning ML and data science from the ground up
+- 🤝 Looking for people to build with
+- 💬 Ask me about: Python, AI ideas, student life
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <a href="https://streak-stats.demolab.com/">
-    <img
-      src="https://streak-stats.demolab.com/?user=Devoid67&theme=dark&background=161B22&border=8B949E&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E&mode=daily&locale=en&disable_animations=true&card_width=495"
-      alt="GitHub Engineering Streak"
-      width="59%"
-    />
-  </a><img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Devoid67&layout=compact&card_width=420&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint"
-alt="Technology Footprint"
-    width="59%"
-  />
+  <img src="https://streak-stats.demolab.com/?user=Devoid67&theme=dark&background=161B22&border=8B949E&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E&mode=daily&locale=en&disable_animations=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Devoid67&show_icons=true&theme=dark&bg_color=161B22&border_color=8B949E&title_color=00CFFF&icon_color=00CFFF&text_color=C9D1D9&hide_border=false" alt="GitHub Stats" width="49%" />
 </p>
-<!-- ========================================================= -->
-<!--                  CONTRIBUTION ANALYTICS                   -->
-<!-- ========================================================= -->
 
-¤ Contribution Analytics
 <p align="center">
-  <a href="https://github.com/Devoid67">
-    <img
-      src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Devoid67&theme=react-dark&hide_border=true&bg_color=0D1117&color=C9D1D9&line=00CFFF&point=FFFFFF&area=true"
-      alt="Devoid67 GitHub Contribution Analytics"
-      width="98%"
-    />
-  </a>
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Devoid67&theme=react-dark&hide_border=true&bg_color=0D1117&color=C9D1D9&line=00CFFF&point=FFFFFF&area=true" alt="Contribution Graph" width="98%" />
 </p>
- 
-<div>
 
-Want to collaborate? Open an issue on any repo or reach out directly - I review PRs based on impact and test coverage. Fork, branch as feat/your-feature, add tests, and open a PR with a clear description.
+---
+
+## 🤝 Let's Collaborate
+
+Want to build something together? Open an issue on any repo or reach out directly.
+
+**Contributing:** fork the repo → create a branch like `feat/your-feature` → add tests → open a PR with a clear description. PRs are reviewed based on impact and test coverage.
+
+---
 
 <div align="center">
 
+> *"Every expert was once a beginner who refused to quit."*
 
-Fun fact. : No code! (>¤<)
+⭐ If you like what you see, drop a star on a repo, it keeps me going! ⭐
 
 </div>
 
----> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+</p>
