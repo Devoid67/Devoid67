@@ -1,6 +1,6 @@
-<!-- ================= TOP GIF (Bleach - Ichigo) ================= -->
+<!-- ================= TOP GIF (Bleach - Gotei 13 Captains) ================= -->
 <p align="center">
-  <img src="https://static2.klipy.com/ii/4e7bea9f7a3371424e6c16ebc93252fe/a4/2b/HUX4yIljI9AFt0J4dg.gif" width="100%" alt="Bleach Ichigo" />
+  <img src="https://static2.klipy.com/ii/4e7bea9f7a3371424e6c16ebc93252fe/09/a6/TGk5uJPmppVkmJgE.gif" width="100%" alt="Bleach Gotei 13 Captains" />
 </p>
 
 <!-- ================= HEADER ================= -->
@@ -41,6 +41,8 @@ I'm a **first-year student** and **Python developer** who gets excited about
   <img src="https://img.shields.io/badge/Language-Python-FFD43B?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-8A2BE2?style=for-the-badge" />
 </p>
+
+---
 
 ## ⚔️ Player Stats
 
