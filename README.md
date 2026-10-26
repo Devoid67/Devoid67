@@ -25,22 +25,22 @@
 
 ## 🧬 About Me
 
-```python
-class Devoid67:
-    def __init__(self):
-        self.role     = "First-year student & developer"
-        self.language = "Python 🐍"
-        self.interests = ["Artificial Intelligence", "Machine Learning", "Data Science"]
-        self.mode     = "Always building, always learning"
+<div align="center">
 
-    def current_quest(self):
-        return "Turning ideas into working projects, one commit at a time."
+**👋 Hey, I'm Devoid67!**
 
-me = Devoid67()
-print(me.current_quest())
-```
+I'm a **first-year student** and **Python developer** who gets excited about
+**Artificial Intelligence, Machine Learning and Data Science**.
 
----
+🚀 I'm always building, always learning, and turning ideas into working projects, one commit at a time.
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Student%20Developer-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-Python-FFD43B?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-8A2BE2?style=for-the-badge" />
+</p>
 
 ## ⚔️ Player Stats
 
